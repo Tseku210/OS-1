@@ -1,0 +1,1 @@
+1) gcc ls.c 2) ./a.out
